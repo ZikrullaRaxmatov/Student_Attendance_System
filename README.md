@@ -35,5 +35,3 @@ Full video on the You Yube: https://youtube.com/shorts/FUc6D6N7ZSw
 Just follow the steps above to get started. The user interface is intuitive and requires no advanced setup.
 
 ---
-
-Feel free to customize this further for your repository!
